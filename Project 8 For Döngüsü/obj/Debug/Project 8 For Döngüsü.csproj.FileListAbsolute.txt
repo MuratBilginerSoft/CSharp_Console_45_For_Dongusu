@@ -1,0 +1,6 @@
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\bin\Debug\Project 8 For Döngüsü.exe.config
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\bin\Debug\Project 8 For Döngüsü.exe
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\bin\Debug\Project 8 For Döngüsü.pdb
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\obj\Debug\Project 8 For Döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\obj\Debug\Project 8 For Döngüsü.exe
+C:\Users\mrt_b\source\repos\Project 8 For Döngüsü\Project 8 For Döngüsü\obj\Debug\Project 8 For Döngüsü.pdb
